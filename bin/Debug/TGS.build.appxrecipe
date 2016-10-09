@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-JU5MJNK</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ec27d02d-a3d8-4963-bc63-3302d8dcee45</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\font-awesome.min.css">
+      <PackagePath>css\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\register.css">
+      <PackagePath>css\register.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\search.css">
+      <PackagePath>css\search.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\animate.css">
+      <PackagePath>css\vendor\animate.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\bootstrap.css">
+      <PackagePath>css\vendor\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\bootstrap.min.css">
+      <PackagePath>css\vendor\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\daterangepicker.css">
+      <PackagePath>css\vendor\daterangepicker.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\dropzone.css">
+      <PackagePath>css\vendor\dropzone.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\flexslider.css">
+      <PackagePath>css\vendor\flexslider.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\font-awesome.min.css">
+      <PackagePath>css\vendor\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\magnific-popup.css">
+      <PackagePath>css\vendor\magnific-popup.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\owl.carousel.css">
+      <PackagePath>css\vendor\owl.carousel.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\vendor\owl.theme.css">
+      <PackagePath>css\vendor\owl.theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\page.html">
+      <PackagePath>page.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\register-shop.html">
+      <PackagePath>register-shop.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\register-traveler.html">
+      <PackagePath>register-traveler.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\register-shop-employee.html">
+      <PackagePath>register-shop-employee.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\search.html">
+      <PackagePath>search.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\fontawesome-webfont.woff2">
+      <PackagePath>fonts\fontawesome-webfont.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\fonts\FontAwesome.otf">
+      <PackagePath>fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art1.jpg">
+      <PackagePath>images\art\art1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art2.jpg">
+      <PackagePath>images\art\art2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art3.jpg">
+      <PackagePath>images\art\art3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art4.jpg">
+      <PackagePath>images\art\art4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art5.jpg">
+      <PackagePath>images\art\art5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art6.jpg">
+      <PackagePath>images\art\art6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art8.jpg">
+      <PackagePath>images\art\art8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\f4.jpg">
+      <PackagePath>images\avatars\f4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\f5.jpg">
+      <PackagePath>images\avatars\f5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\f6.jpg">
+      <PackagePath>images\avatars\f6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\f7.jpg">
+      <PackagePath>images\avatars\f7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\f8.jpg">
+      <PackagePath>images\avatars\f8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\m1.jpg">
+      <PackagePath>images\avatars\m1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\avatars\m7.jpg">
+      <PackagePath>images\avatars\m7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\shops\fortune-tattoo.jpg">
+      <PackagePath>images\shops\fortune-tattoo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\shops\Tattoo-Temple-Hong-Kong-New-Studio.jpg">
+      <PackagePath>images\shops\Tattoo-Temple-Hong-Kong-New-Studio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\shops\Tattoo-Temple-Hong-Kong.jpg">
+      <PackagePath>images\shops\Tattoo-Temple-Hong-Kong.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\shops\The-Boston-Tattoo-Company.jpg">
+      <PackagePath>images\shops\The-Boston-Tattoo-Company.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\shops\tintin-tattoo.jpg">
+      <PackagePath>images\shops\tintin-tattoo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-ink2.jpg">
+      <PackagePath>images\skins\skin-ink2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-compass1.jpg">
+      <PackagePath>images\skins\skin-compass1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-airplane-window.jpg">
+      <PackagePath>images\skins\skin-airplane-window.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-tattoo-gun.jpg">
+      <PackagePath>images\skins\skin-tattoo-gun.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-tattoo-gun-hook.jpg">
+      <PackagePath>images\skins\skin-tattoo-gun-hook.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-tattoo-guns.jpg">
+      <PackagePath>images\skins\skin-tattoo-guns.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-ink.jpg">
+      <PackagePath>images\skins\skin-ink.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-wrist-map.jpg">
+      <PackagePath>images\skins\skin-wrist-map.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-wrist-plane.jpg">
+      <PackagePath>images\skins\skin-wrist-plane.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\art\art7.png">
+      <PackagePath>images\art\art7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\skins\skin-tattoo-needle.png">
+      <PackagePath>images\skins\skin-tattoo-needle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\tgs-white_logo_horizontal.png">
+      <PackagePath>images\tgs-white_logo_horizontal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\images\tgs-white_logo_transparent_background.png">
+      <PackagePath>images\tgs-white_logo_transparent_background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\contact_me.js">
+      <PackagePath>js\contact_me.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\custom.js">
+      <PackagePath>js\custom.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\bootstrap.js">
+      <PackagePath>js\plugins\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\bootstrap.min.js">
+      <PackagePath>js\plugins\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\daterangepicker.js">
+      <PackagePath>js\plugins\daterangepicker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\dropzone.js">
+      <PackagePath>js\plugins\dropzone.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\easypiechart.js">
+      <PackagePath>js\plugins\easypiechart.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jqBootstrapValidation.js">
+      <PackagePath>js\plugins\jqBootstrapValidation.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.backstretch.min.js">
+      <PackagePath>js\plugins\jquery.backstretch.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.counterup.min.js">
+      <PackagePath>js\plugins\jquery.counterup.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.easing.1.3.min.js">
+      <PackagePath>js\plugins\jquery.easing.1.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.flexslider-min.js">
+      <PackagePath>js\plugins\jquery.flexslider-min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.magnific-popup.min.js">
+      <PackagePath>js\plugins\jquery.magnific-popup.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.min.js">
+      <PackagePath>js\plugins\jquery.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.mixitup.min.js">
+      <PackagePath>js\plugins\jquery.mixitup.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.stellar.min.js">
+      <PackagePath>js\plugins\jquery.stellar.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\jquery.sticky.js">
+      <PackagePath>js\plugins\jquery.sticky.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\moment.js">
+      <PackagePath>js\plugins\moment.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\moment.min.js">
+      <PackagePath>js\plugins\moment.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\owl.carousel.min.js">
+      <PackagePath>js\plugins\owl.carousel.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\tweetie.min.js">
+      <PackagePath>js\plugins\tweetie.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\waypoints.min.js">
+      <PackagePath>js\plugins\waypoints.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\plugins\wow.min.js">
+      <PackagePath>js\plugins\wow.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\register.js">
+      <PackagePath>js\register.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\js\search.js">
+      <PackagePath>js\search.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\TGS\TGS\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
