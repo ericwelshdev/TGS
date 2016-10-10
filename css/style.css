@@ -938,6 +938,17 @@ input[type="color"]:focus,
 
 }
 
+@media(max-width:420px) {
+
+    .logo-top{
+    margin-top:3px;
+    height:32px;
+    width:auto
+
+}
+
+}
+
 /***************blog****************/
 #blog form .form-control{
     width:260px;
