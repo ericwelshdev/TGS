@@ -22,6 +22,31 @@ body {
 
 }
 
+
+.bg_opacitywhite45{
+background: rgba(255,255,255,0.45)!important;
+}
+
+
+.bg_opacity15{
+background: rgba(0,0,0,0.15)!important;
+}
+
+.bg_opacity35{
+background: rgba(0,0,0,0.35)!important;
+}
+
+.bg_opacity60{
+background: rgba(0,0,0,0.60)!important;
+}
+.text-grey{
+    color:#999;
+
+}
+
+.hr-grey {
+	border-top: 1px solid #999;
+}
 /*
 /*-----------------------------------------------------------------------------------*/
 /*	RESET
